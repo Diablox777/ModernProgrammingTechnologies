@@ -232,3 +232,4 @@ C:\WORK\sibguti\7 semestr\ModernProgrammingTechnologies\STP_LAB1\TestProject1\ob
 C:\WORK\sibguti\7 semestr\ModernProgrammingTechnologies\STP_LAB1\TestProject1\obj\Debug\net8.0\TestProject1.pdb
 C:\WORK\sibguti\7 semestr\ModernProgrammingTechnologies\STP_LAB1\TestProject1\obj\Debug\net8.0\TestProject1.genruntimeconfig.cache
 C:\WORK\sibguti\7 semestr\ModernProgrammingTechnologies\STP_LAB1\TestProject1\obj\Debug\net8.0\ref\TestProject1.dll
+C:\WORK\sibguti\7 semestr\ModernProgrammingTechnologies\STP_LAB1\TestProject1\obj\Debug\net8.0\TestProject1.sourcelink.json

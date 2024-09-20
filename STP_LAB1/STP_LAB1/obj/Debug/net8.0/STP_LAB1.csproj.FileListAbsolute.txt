@@ -26,3 +26,4 @@ C:\WORK\sibguti\7 semestr\ModernProgrammingTechnologies\STP_LAB1\STP_LAB1\obj\De
 C:\WORK\sibguti\7 semestr\ModernProgrammingTechnologies\STP_LAB1\STP_LAB1\obj\Debug\net8.0\STP_Lab1.pdb
 C:\WORK\sibguti\7 semestr\ModernProgrammingTechnologies\STP_LAB1\STP_LAB1\obj\Debug\net8.0\STP_Lab1.genruntimeconfig.cache
 C:\WORK\sibguti\7 semestr\ModernProgrammingTechnologies\STP_LAB1\STP_LAB1\obj\Debug\net8.0\ref\STP_Lab1.dll
+C:\WORK\sibguti\7 semestr\ModernProgrammingTechnologies\STP_LAB1\STP_LAB1\obj\Debug\net8.0\STP_Lab1.sourcelink.json
