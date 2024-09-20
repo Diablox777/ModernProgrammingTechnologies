@@ -1,0 +1,28 @@
+C:\Users\tetyakoff\source\repos\STP_LAB1\STP_LAB1\bin\Debug\net8.0\STP_LAB1.exe
+C:\Users\tetyakoff\source\repos\STP_LAB1\STP_LAB1\bin\Debug\net8.0\STP_LAB1.deps.json
+C:\Users\tetyakoff\source\repos\STP_LAB1\STP_LAB1\bin\Debug\net8.0\STP_LAB1.runtimeconfig.json
+C:\Users\tetyakoff\source\repos\STP_LAB1\STP_LAB1\bin\Debug\net8.0\STP_LAB1.dll
+C:\Users\tetyakoff\source\repos\STP_LAB1\STP_LAB1\bin\Debug\net8.0\STP_LAB1.pdb
+C:\Users\tetyakoff\source\repos\STP_LAB1\STP_LAB1\obj\Debug\net8.0\STP_LAB1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tetyakoff\source\repos\STP_LAB1\STP_LAB1\obj\Debug\net8.0\STP_LAB1.AssemblyInfoInputs.cache
+C:\Users\tetyakoff\source\repos\STP_LAB1\STP_LAB1\obj\Debug\net8.0\STP_LAB1.AssemblyInfo.cs
+C:\Users\tetyakoff\source\repos\STP_LAB1\STP_LAB1\obj\Debug\net8.0\STP_LAB1.csproj.CoreCompileInputs.cache
+C:\Users\tetyakoff\source\repos\STP_LAB1\STP_LAB1\obj\Debug\net8.0\STP_LAB1.dll
+C:\Users\tetyakoff\source\repos\STP_LAB1\STP_LAB1\obj\Debug\net8.0\refint\STP_LAB1.dll
+C:\Users\tetyakoff\source\repos\STP_LAB1\STP_LAB1\obj\Debug\net8.0\STP_LAB1.pdb
+C:\Users\tetyakoff\source\repos\STP_LAB1\STP_LAB1\obj\Debug\net8.0\STP_LAB1.genruntimeconfig.cache
+C:\Users\tetyakoff\source\repos\STP_LAB1\STP_LAB1\obj\Debug\net8.0\ref\STP_LAB1.dll
+C:\WORK\sibguti\7 semestr\ModernProgrammingTechnologies\STP_LAB1\STP_LAB1\bin\Debug\net8.0\STP_Lab1.exe
+C:\WORK\sibguti\7 semestr\ModernProgrammingTechnologies\STP_LAB1\STP_LAB1\bin\Debug\net8.0\STP_Lab1.deps.json
+C:\WORK\sibguti\7 semestr\ModernProgrammingTechnologies\STP_LAB1\STP_LAB1\bin\Debug\net8.0\STP_Lab1.runtimeconfig.json
+C:\WORK\sibguti\7 semestr\ModernProgrammingTechnologies\STP_LAB1\STP_LAB1\bin\Debug\net8.0\STP_Lab1.dll
+C:\WORK\sibguti\7 semestr\ModernProgrammingTechnologies\STP_LAB1\STP_LAB1\bin\Debug\net8.0\STP_Lab1.pdb
+C:\WORK\sibguti\7 semestr\ModernProgrammingTechnologies\STP_LAB1\STP_LAB1\obj\Debug\net8.0\STP_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\sibguti\7 semestr\ModernProgrammingTechnologies\STP_LAB1\STP_LAB1\obj\Debug\net8.0\STP_Lab1.AssemblyInfoInputs.cache
+C:\WORK\sibguti\7 semestr\ModernProgrammingTechnologies\STP_LAB1\STP_LAB1\obj\Debug\net8.0\STP_Lab1.AssemblyInfo.cs
+C:\WORK\sibguti\7 semestr\ModernProgrammingTechnologies\STP_LAB1\STP_LAB1\obj\Debug\net8.0\STP_Lab1.csproj.CoreCompileInputs.cache
+C:\WORK\sibguti\7 semestr\ModernProgrammingTechnologies\STP_LAB1\STP_LAB1\obj\Debug\net8.0\STP_Lab1.dll
+C:\WORK\sibguti\7 semestr\ModernProgrammingTechnologies\STP_LAB1\STP_LAB1\obj\Debug\net8.0\refint\STP_Lab1.dll
+C:\WORK\sibguti\7 semestr\ModernProgrammingTechnologies\STP_LAB1\STP_LAB1\obj\Debug\net8.0\STP_Lab1.pdb
+C:\WORK\sibguti\7 semestr\ModernProgrammingTechnologies\STP_LAB1\STP_LAB1\obj\Debug\net8.0\STP_Lab1.genruntimeconfig.cache
+C:\WORK\sibguti\7 semestr\ModernProgrammingTechnologies\STP_LAB1\STP_LAB1\obj\Debug\net8.0\ref\STP_Lab1.dll
